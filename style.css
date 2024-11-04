@@ -333,6 +333,7 @@ img{
 
 /* mobile menu */
 .mobile-menu{
+    overflow: hidden;
     position: fixed;
     top: -20px;
     /* width: 180px; */
